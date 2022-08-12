@@ -1,0 +1,539 @@
+RK,TIERS,PLAYER NAME,TEAM,POS,BYE WEEK,SOS SEASON,ECR VS. ADP
+1,1,Jonathan Taylor,IND,RB1,14,3 out of 5 stars,0
+2,1,Christian McCaffrey,CAR,RB2,13,3 out of 5 stars,0
+3,1,Derrick Henry,TEN,RB3,6,4 out of 5 stars,2
+4,1,Dalvin Cook,MIN,RB4,7,4 out of 5 stars,4
+5,1,Austin Ekeler,LAC,RB5,8,2 out of 5 stars,-2
+6,2,Joe Mixon,CIN,RB6,10,3 out of 5 stars,4
+7,2,Najee Harris,PIT,RB7,9,3 out of 5 stars,0
+8,2,Nick Chubb,CLE,RB8,9,3 out of 5 stars,7
+9,2,Justin Jefferson,MIN,WR1,7,2 out of 5 stars,-3
+10,2,Cooper Kupp,LAR,WR2,7,2 out of 5 stars,-6
+11,2,Travis Kelce,KC,TE1,8,3 out of 5 stars,2
+12,2,Ja'Marr Chase,CIN,WR3,10,3 out of 5 stars,-3
+13,3,Stefon Diggs,BUF,WR4,7,4 out of 5 stars,1
+14,3,Mark Andrews,BAL,TE2,10,2 out of 5 stars,9
+15,3,D'Andre Swift,DET,RB9,6,4 out of 5 stars,-3
+16,3,Davante Adams,LV,WR5,6,2 out of 5 stars,-5
+17,3,Alvin Kamara,NO,RB10,14,3 out of 5 stars,2
+18,3,Deebo Samuel,SF,WR6,9,3 out of 5 stars,-1
+19,3,Aaron Jones,GB,RB11,14,3 out of 5 stars,3
+20,3,CeeDee Lamb,DAL,WR7,9,3 out of 5 stars,-2
+21,3,Saquon Barkley,NYG,RB12,9,3 out of 5 stars,-1
+22,3,Javonte Williams,DEN,RB13,9,3 out of 5 stars,-6
+23,3,Leonard Fournette,TB,RB14,11,2 out of 5 stars,1
+24,4,Mike Evans,TB,WR8,11,4 out of 5 stars,3
+25,4,Tyreek Hill,MIA,WR9,11,2 out of 5 stars,-4
+26,4,James Conner,ARI,RB15,13,2 out of 5 stars,5
+27,4,A.J. Brown,PHI,WR10,7,4 out of 5 stars,-1
+28,4,Ezekiel Elliott,DAL,RB16,9,4 out of 5 stars,2
+29,4,Tee Higgins,CIN,WR11,10,3 out of 5 stars,4
+30,4,Kyle Pitts,ATL,TE3,14,2 out of 5 stars,2
+31,4,Josh Allen,BUF,QB1,7,3 out of 5 stars,-6
+32,4,Keenan Allen,LAC,WR12,8,3 out of 5 stars,-3
+33,4,Michael Pittman Jr.,IND,WR13,14,4 out of 5 stars,8
+34,4,DJ Moore,CAR,WR14,13,3 out of 5 stars,12
+35,5,Cam Akers,LAR,RB17,7,2 out of 5 stars,-7
+36,5,Mike Williams,LAC,WR15,8,3 out of 5 stars,13
+37,5,Courtland Sutton,DEN,WR16,9,4 out of 5 stars,21
+38,5,Terry McLaurin,WAS,WR17,14,4 out of 5 stars,7
+39,5,David Montgomery,CHI,RB18,14,5 out of 5 stars,-5
+40,5,Breece Hall,NYJ,RB19,10,4 out of 5 stars,-3
+41,5,George Kittle,SF,TE4,9,4 out of 5 stars,2
+42,5,Diontae Johnson,PIT,WR18,9,4 out of 5 stars,0
+43,5,Elijah Mitchell,SF,RB20,9,2 out of 5 stars,7
+44,5,DK Metcalf,SEA,WR19,11,4 out of 5 stars,4
+45,5,Justin Herbert,LAC,QB2,8,3 out of 5 stars,-9
+46,5,Jaylen Waddle,MIA,WR20,11,2 out of 5 stars,-2
+47,5,J.K. Dobbins,BAL,RB21,10,4 out of 5 stars,5
+48,5,Antonio Gibson,WAS,RB22,14,4 out of 5 stars,-10
+49,5,Brandin Cooks,HOU,WR21,6,3 out of 5 stars,10
+50,5,Darren Waller,LV,TE5,6,2 out of 5 stars,-3
+51,5,Travis Etienne Jr.,JAC,RB23,11,3 out of 5 stars,-12
+52,5,Patrick Mahomes II,KC,QB3,8,2 out of 5 stars,-17
+53,6,Lamar Jackson,BAL,QB4,10,2 out of 5 stars,-2
+54,6,Marquise Brown,ARI,WR22,13,2 out of 5 stars,2
+55,6,Josh Jacobs,LV,RB24,6,2 out of 5 stars,-15
+56,6,Gabriel Davis,BUF,WR23,7,4 out of 5 stars,16
+57,6,Allen Robinson II,LAR,WR24,7,2 out of 5 stars,7
+58,6,Jerry Jeudy,DEN,WR25,9,4 out of 5 stars,12
+59,6,Amari Cooper,CLE,WR26,9,4 out of 5 stars,2
+60,6,AJ Dillon,GB,RB25,14,3 out of 5 stars,-7
+61,6,Darnell Mooney,CHI,WR27,14,3 out of 5 stars,1
+62,6,Kyler Murray,ARI,QB5,13,2 out of 5 stars,-2
+63,6,Damien Harris,NE,RB26,10,4 out of 5 stars,4
+64,6,Rashod Bateman,BAL,WR28,10,3 out of 5 stars,22
+65,6,Dalton Schultz,DAL,TE6,9,3 out of 5 stars,-2
+66,6,Chris Godwin,TB,WR29,11,4 out of 5 stars,-12
+67,6,Jalen Hurts,PHI,QB6,7,4 out of 5 stars,-2
+68,6,Michael Thomas,NO,WR30,14,4 out of 5 stars,1
+69,6,Elijah Moore,NYJ,WR31,10,1 out of 5 stars,7
+70,6,Miles Sanders,PHI,RB27,7,3 out of 5 stars,5
+71,7,Joe Burrow,CIN,QB7,10,2 out of 5 stars,-14
+72,7,Adam Thielen,MIN,WR32,7,2 out of 5 stars,1
+73,7,Dallas Goedert,PHI,TE7,7,2 out of 5 stars,11
+74,7,JuJu Smith-Schuster,KC,WR33,8,2 out of 5 stars,3
+75,7,T.J. Hockenson,DET,TE8,6,4 out of 5 stars,-9
+76,7,Clyde Edwards-Helaire,KC,RB28,8,3 out of 5 stars,-5
+77,7,Amon-Ra St. Brown,DET,WR34,6,3 out of 5 stars,-22
+78,7,Rashaad Penny,SEA,RB29,11,2 out of 5 stars,2
+79,7,DeVonta Smith,PHI,WR35,7,4 out of 5 stars,8
+80,7,Tom Brady,TB,QB8,11,3 out of 5 stars,8
+81,7,Brandon Aiyuk,SF,WR36,9,3 out of 5 stars,18
+82,7,Kareem Hunt,CLE,RB30,9,3 out of 5 stars,-1
+83,7,Russell Wilson,DEN,QB9,9,4 out of 5 stars,-5
+84,7,Dak Prescott,DAL,QB10,9,3 out of 5 stars,-16
+85,7,Tyler Lockett,SEA,WR37,11,4 out of 5 stars,6
+86,7,Chase Edmonds,MIA,RB31,11,4 out of 5 stars,-1
+87,7,Devin Singletary,BUF,RB32,7,4 out of 5 stars,-13
+88,7,Allen Lazard,GB,WR38,14,3 out of 5 stars,23
+89,7,Tony Pollard,DAL,RB33,9,4 out of 5 stars,-10
+90,7,Melvin Gordon III,DEN,RB34,9,3 out of 5 stars,8
+91,7,Dawson Knox,BUF,TE9,7,3 out of 5 stars,9
+92,7,DeAndre Hopkins,ARI,WR39,13,2 out of 5 stars,4
+93,7,Rhamondre Stevenson,NE,RB35,10,4 out of 5 stars,4
+94,7,Drake London,ATL,WR40,14,4 out of 5 stars,-1
+95,7,Zach Ertz,ARI,TE10,13,3 out of 5 stars,-1
+96,7,Cordarrelle Patterson,ATL,RB36,14,1 out of 5 stars,-14
+97,7,Ken Walker III,SEA,RB37,11,2 out of 5 stars,-8
+98,7,Christian Kirk,JAC,WR41,11,4 out of 5 stars,6
+99,7,Trey Lance,SF,QB11,9,3 out of 5 stars,2
+100,7,Hunter Renfrow,LV,WR42,6,2 out of 5 stars,-17
+101,8,Matthew Stafford,LAR,QB12,7,3 out of 5 stars,-11
+102,8,Robert Woods,TEN,WR43,6,3 out of 5 stars,0
+103,8,Aaron Rodgers,GB,QB13,14,2 out of 5 stars,-8
+104,8,Treylon Burks,TEN,WR44,6,3 out of 5 stars,-12
+105,8,Chase Claypool,PIT,WR45,9,4 out of 5 stars,2
+106,8,Kadarius Toney,NYG,WR46,9,4 out of 5 stars,4
+107,8,Kirk Cousins,MIN,QB14,7,3 out of 5 stars,1
+108,8,Derek Carr,LV,QB15,6,2 out of 5 stars,-3
+109,8,Hunter Henry,NE,TE11,10,4 out of 5 stars,44
+110,8,Chris Olave,NO,WR47,14,4 out of 5 stars,-4
+111,8,James Cook,BUF,RB38,7,4 out of 5 stars,2
+112,8,James Robinson,JAC,RB39,11,3 out of 5 stars,0
+113,8,Garrett Wilson,NYJ,WR48,10,1 out of 5 stars,2
+114,8,Darrell Henderson Jr.,LAR,RB40,7,2 out of 5 stars,10
+115,8,Ronald Jones II,KC,RB41,8,3 out of 5 stars,6
+116,8,Pat Freiermuth,PIT,TE12,9,4 out of 5 stars,2
+117,8,Cole Kmet,CHI,TE13,14,5 out of 5 stars,2
+118,8,Michael Carter,NYJ,RB42,10,4 out of 5 stars,-15
+119,8,Russell Gage,TB,WR49,11,4 out of 5 stars,-5
+120,8,Justin Fields,CHI,QB16,14,4 out of 5 stars,2
+121,8,Mike Gesicki,MIA,TE14,11,3 out of 5 stars,-5
+122,8,Tua Tagovailoa,MIA,QB17,11,2 out of 5 stars,-2
+123,8,Alexander Mattison,MIN,RB43,7,4 out of 5 stars,-6
+124,8,Skyy Moore,KC,WR50,8,2 out of 5 stars,10
+125,9,Marquez Valdes-Scantling,KC,WR51,8,2 out of 5 stars,13
+126,9,Tyler Boyd,CIN,WR52,10,3 out of 5 stars,-3
+127,9,Trevor Lawrence,JAC,QB18,11,5 out of 5 stars,8
+128,9,Dameon Pierce,HOU,RB44,6,3 out of 5 stars,-2
+129,9,Irv Smith Jr.,MIN,TE15,7,3 out of 5 stars,0
+130,9,Isaiah Spiller,LAC,RB45,8,2 out of 5 stars,-21
+131,9,Kenny Golladay,NYG,WR53,9,4 out of 5 stars,-1
+132,9,Jakobi Meyers,NE,WR54,10,4 out of 5 stars,-1
+133,9,Michael Gallup,DAL,WR55,9,3 out of 5 stars,8
+134,9,Noah Fant,SEA,TE16,11,2 out of 5 stars,18
+135,9,Raheem Mostert,MIA,RB46,11,4 out of 5 stars,7
+136,9,DeVante Parker,NE,WR56,10,4 out of 5 stars,8
+137,9,Kenneth Gainwell,PHI,RB47,7,3 out of 5 stars,-12
+138,9,Albert Okwuegbunam,DEN,TE17,9,3 out of 5 stars,2
+139,9,Jarvis Landry,NO,WR57,14,4 out of 5 stars,-6
+140,9,Robert Tonyan,GB,TE18,14,1 out of 5 stars,27
+141,9,Jameis Winston,NO,QB19,14,3 out of 5 stars,16
+142,9,Tyler Higbee,LAR,TE19,7,3 out of 5 stars,44
+143,9,DJ Chark Jr.,DET,WR58,6,3 out of 5 stars,-7
+144,9,Jamaal Williams,DET,RB48,6,4 out of 5 stars,4
+145,9,David Njoku,CLE,TE20,9,4 out of 5 stars,5
+146,9,Gus Edwards,BAL,RB49,10,4 out of 5 stars,16
+147,9,Gerald Everett,LAC,TE21,8,4 out of 5 stars,16
+148,9,Matt Ryan,IND,QB20,14,3 out of 5 stars,-1
+149,9,Ryan Tannehill,TEN,QB21,6,4 out of 5 stars,-6
+150,9,Nyheim Hines,IND,RB50,14,3 out of 5 stars,-23
+151,9,Tyler Allgeier,ATL,RB51,14,1 out of 5 stars,-2
+152,9,Khalil Herbert,CHI,RB52,14,5 out of 5 stars,-13
+153,9,Rondale Moore,ARI,WR59,13,2 out of 5 stars,-16
+154,9,Marlon Mack,HOU,RB53,6,3 out of 5 stars,12
+155,9,Daniel Jones,NYG,QB22,9,5 out of 5 stars,40
+156,9,Buffalo Bills,BUF,DST1,7,4 out of 5 stars,44
+157,9,Evan Engram,JAC,TE22,11,4 out of 5 stars,7
+158,9,Tampa Bay Buccaneers,TB,DST2,11,4 out of 5 stars,46
+159,10,Mac Jones,NE,QB23,10,4 out of 5 stars,-1
+160,10,Zach Wilson,NYJ,QB24,10,1 out of 5 stars,18
+161,10,Sony Michel,MIA,RB54,11,4 out of 5 stars,27
+162,10,Julio Jones,TB,WR60,11,4 out of 5 stars,3
+163,10,Rachaad White,TB,RB55,11,2 out of 5 stars,-35
+164,10,J.D. McKissic,WAS,RB56,14,4 out of 5 stars,-32
+165,10,Logan Thomas,WAS,TE23,14,4 out of 5 stars,57
+166,10,Corey Davis,NYJ,WR61,10,1 out of 5 stars,15
+167,10,Austin Hooper,TEN,TE24,6,5 out of 5 stars,31
+168,10,San Francisco 49ers,SF,DST3,9,4 out of 5 stars,68
+169,10,Jahan Dotson,WAS,WR62,14,4 out of 5 stars,-23
+170,10,Mecole Hardman,KC,WR63,8,2 out of 5 stars,-19
+171,10,Indianapolis Colts,IND,DST4,14,3 out of 5 stars,43
+172,10,Carson Wentz,WAS,QB25,14,4 out of 5 stars,17
+173,10,Jameson Williams,DET,WR64,6,3 out of 5 stars,-17
+174,10,Darrel Williams,ARI,RB57,13,2 out of 5 stars,-13
+175,10,Van Jefferson,LAR,WR65,7,2 out of 5 stars,7
+176,10,Mark Ingram II,NO,RB58,14,3 out of 5 stars,-8
+177,10,D'Onta Foreman,CAR,RB59,13,3 out of 5 stars,-8
+178,10,Nico Collins,HOU,WR66,6,3 out of 5 stars,38
+179,10,Robbie Anderson,CAR,WR67,13,3 out of 5 stars,-6
+180,10,Justin Tucker,BAL,K1,10,3 out of 5 stars,-20
+181,10,Denver Broncos,DEN,DST5,9,3 out of 5 stars,50
+182,10,New England Patriots,NE,DST6,10,3 out of 5 stars,33
+183,10,Los Angeles Rams,LAR,DST7,7,3 out of 5 stars,57
+184,10,Jared Goff,DET,QB26,6,3 out of 5 stars,7
+185,10,New Orleans Saints,NO,DST8,14,3 out of 5 stars,32
+186,10,Marvin Jones Jr.,JAC,WR68,11,4 out of 5 stars,16
+187,10,Christian Watson,GB,WR69,14,3 out of 5 stars,-32
+188,10,Hayden Hurst,CIN,TE25,10,2 out of 5 stars,8
+189,10,K.J. Osborn,MIN,WR70,7,2 out of 5 stars,-9
+190,10,Tyler Bass,BUF,K2,7,4 out of 5 stars,4
+191,10,Brian Robinson Jr.,WAS,RB60,14,4 out of 5 stars,-19
+192,10,Deshaun Watson,CLE,QB27,9,4 out of 5 stars,-38
+193,10,George Pickens,PIT,WR71,9,4 out of 5 stars,-34
+194,10,Joshua Palmer,LAC,WR72,8,3 out of 5 stars,-23
+195,10,Matt Gay,LAR,K3,7,2 out of 5 stars,-8
+196,10,Kendrick Bourne,NE,WR73,10,4 out of 5 stars,15
+197,10,Baker Mayfield,CAR,QB28,13,3 out of 5 stars,-4
+198,11,Dallas Cowboys,DAL,DST9,9,2 out of 5 stars,11
+199,11,Donovan Peoples-Jones,CLE,WR74,9,4 out of 5 stars,-7
+200,11,Davis Mills,HOU,QB29,6,4 out of 5 stars,-17
+201,11,Daniel Carlson,LV,K4,6,2 out of 5 stars,-31
+202,11,Jamison Crowder,BUF,WR75,7,4 out of 5 stars,1
+203,11,Zamir White,LV,RB61,6,2 out of 5 stars,-13
+204,11,Evan McPherson,CIN,K5,10,0 out of 5 stars,-27
+205,11,Boston Scott,PHI,RB62,7,3 out of 5 stars,40
+206,11,Los Angeles Chargers,LAC,DST10,8,4 out of 5 stars,21
+207,11,KJ Hamler,DEN,WR76,9,4 out of 5 stars,44
+208,11,Curtis Samuel,WAS,WR77,14,4 out of 5 stars,2
+209,11,Green Bay Packers,GB,DST11,14,3 out of 5 stars,62
+210,11,Miami Dolphins,MIA,DST12,11,3 out of 5 stars,11
+211,11,Jalen Tolbert,DAL,WR78,9,3 out of 5 stars,-66
+212,11,Kenyan Drake,LV,RB63,6,2 out of 5 stars,-38
+213,11,Kansas City Chiefs,KC,DST13,8,3 out of 5 stars,29
+214,11,Parris Campbell,IND,WR79,14,4 out of 5 stars,6
+215,11,Ryan Succop,TB,K6,11,1 out of 5 stars,34
+216,11,Harrison Butker,KC,K7,8,5 out of 5 stars,-37
+217,11,A.J. Green,ARI,WR80,13,2 out of 5 stars,38
+218,11,Matt Prater,ARI,K8,13,2 out of 5 stars,-21
+219,11,Cleveland Browns,CLE,DST14,9,4 out of 5 stars,57
+220,11,Baltimore Ravens,BAL,DST15,10,4 out of 5 stars,43
+221,11,Brevin Jordan,HOU,TE26,6,3 out of 5 stars,3
+222,11,Sterling Shepard,NYG,WR81,9,4 out of 5 stars,65
+223,11,Wan'Dale Robinson,NYG,WR82,9,4 out of 5 stars,-11
+224,11,Philadelphia Eagles,PHI,DST16,7,2 out of 5 stars,80
+225,11,Tyrion Davis-Price,SF,RB64,9,2 out of 5 stars,-41
+226,11,David Bell,CLE,WR83,9,4 out of 5 stars,17
+227,11,Pittsburgh Steelers,PIT,DST17,9,5 out of 5 stars,30
+228,11,Alec Pierce,IND,WR84,14,4 out of 5 stars,-53
+229,11,Marcus Mariota,ATL,QB30,14,3 out of 5 stars,-11
+230,11,Rodrigo Blankenship,IND,K9,14,4 out of 5 stars,-25
+231,11,Younghoe Koo,ATL,K10,14,1 out of 5 stars,23
+232,11,Chuba Hubbard,CAR,RB65,13,3 out of 5 stars,-31
+233,11,Laviska Shenault Jr.,JAC,WR85,11,4 out of 5 stars,2
+234,11,Jonnu Smith,NE,TE27,10,4 out of 5 stars,40
+235,11,Jason Sanders,MIA,K11,11,1 out of 5 stars,55
+236,11,Damien Williams,ATL,RB66,14,1 out of 5 stars,80
+237,11,Brandon McManus,DEN,K12,9,4 out of 5 stars,-8
+238,11,Nick Folk,NE,K13,10,5 out of 5 stars,-6
+239,11,Adam Trautman,NO,TE28,14,4 out of 5 stars,13
+240,11,Trey Sermon,SF,RB67,9,2 out of 5 stars,8
+241,11,Arizona Cardinals,ARI,DST18,13,3 out of 5 stars,57
+242,11,D'Ernest Johnson,CLE,RB68,9,3 out of 5 stars,-35
+243,11,Terrace Marshall Jr.,CAR,WR86,13,3 out of 5 stars,35
+244,11,Samaje Perine,CIN,RB69,10,3 out of 5 stars,50
+245,11,Mitch Trubisky,PIT,QB31,9,3 out of 5 stars,-20
+246,12,Mo Alie-Cox,IND,TE29,14,2 out of 5 stars,15
+247,12,Robbie Gould,SF,K14,9,3 out of 5 stars,26
+248,12,Cincinnati Bengals,CIN,DST19,10,4 out of 5 stars,51
+249,12,Jake Elliott,PHI,K15,7,2 out of 5 stars,65
+250,12,Byron Pringle,CHI,WR87,14,3 out of 5 stars,14
+251,12,Dan Arnold,JAC,TE30,11,4 out of 5 stars,112
+252,12,Tennessee Titans,TEN,DST20,6,2 out of 5 stars,18
+253,12,Isaiah McKenzie,BUF,WR88,7,4 out of 5 stars,-16
+254,12,Myles Gaskin,MIA,RB70,11,4 out of 5 stars,-48
+255,12,Jeff Wilson Jr.,SF,RB71,9,2 out of 5 stars,10
+256,12,Carolina Panthers,CAR,DST21,13,4 out of 5 stars,46
+257,12,Bryan Edwards,ATL,WR89,14,4 out of 5 stars,50
+258,12,Dustin Hopkins,LAC,K16,8,5 out of 5 stars,-12
+259,12,William Fuller V,FA,WR90,-,-,-40
+260,12,Jerick McKinnon,KC,RB72,8,3 out of 5 stars,-10
+261,12,Braxton Berrios,NYJ,WR91,10,1 out of 5 stars,77
+262,12,Greg Zuerlein,NYJ,K17,10,0 out of 5 stars,87
+263,12,Rex Burkhead,HOU,RB73,6,3 out of 5 stars,16
+264,12,Wil Lutz,NO,K18,14,4 out of 5 stars,-41
+265,12,Zay Jones,JAC,WR92,11,4 out of 5 stars,12
+266,12,Zack Moss,BUF,RB74,7,4 out of 5 stars,51
+267,12,Minnesota Vikings,MIN,DST22,7,2 out of 5 stars,-8
+268,12,Chris Boswell,PIT,K19,9,3 out of 5 stars,12
+269,12,Randall Cobb,GB,WR93,14,3 out of 5 stars,-1
+270,12,Marquez Callaway,NO,WR94,14,4 out of 5 stars,-8
+271,12,Odell Beckham Jr.,FA,WR95,-,-,-72
+272,12,C.J. Uzomah,NYJ,TE31,10,3 out of 5 stars,-31
+273,12,Mike Davis,BAL,RB75,10,4 out of 5 stars,-45
+274,12,Chicago Bears,CHI,DST23,14,1 out of 5 stars,69
+275,12,Sammy Watkins,GB,WR96,14,3 out of 5 stars,-90
+276,12,Mason Crosby,GB,K20,14,4 out of 5 stars,80
+277,12,Cedrick Wilson Jr.,MIA,WR97,11,2 out of 5 stars,23
+278,12,Matt Breida,NYG,RB76,9,3 out of 5 stars,-34
+279,12,Romeo Doubs,GB,WR98,14,3 out of 5 stars,-103
+280,12,O.J. Howard,BUF,TE32,7,3 out of 5 stars,-
+281,12,Washington Commanders,WAS,DST24,14,1 out of 5 stars,77
+282,12,Hassan Haskins,TEN,RB77,6,4 out of 5 stars,-29
+283,12,Cameron Brate,TB,TE33,11,3 out of 5 stars,-70
+284,12,Graham Gano,NYG,K21,9,1 out of 5 stars,-
+285,12,Nelson Agholor,NE,WR99,10,4 out of 5 stars,60
+286,12,Phillip Lindsay,IND,RB78,14,3 out of 5 stars,71
+287,12,Jason Myers,SEA,K22,11,5 out of 5 stars,-
+288,12,New York Giants,NYG,DST25,9,2 out of 5 stars,1
+289,12,Trey McBride,ARI,TE34,13,3 out of 5 stars,-42
+290,12,Ke'Shawn Vaughn,TB,RB79,11,2 out of 5 stars,-51
+291,12,Greg Joseph,MIN,K23,7,0 out of 5 stars,-25
+292,12,Eno Benjamin,ARI,RB80,13,2 out of 5 stars,-54
+293,12,Seattle Seahawks,SEA,DST26,11,3 out of 5 stars,8
+294,12,Cairo Santos,CHI,K24,14,3 out of 5 stars,85
+295,12,New York Jets,NYJ,DST27,10,4 out of 5 stars,17
+296,12,Tre'Quan Smith,NO,WR100,14,4 out of 5 stars,64
+297,13,Randy Bullock,TEN,K25,6,3 out of 5 stars,73
+298,13,Drew Lock,SEA,QB32,11,3 out of 5 stars,-5
+299,13,Ka'imi Fairbairn,HOU,K26,6,4 out of 5 stars,-
+300,13,Jacksonville Jaguars,JAC,DST28,11,2 out of 5 stars,-
+301,13,Josh Reynolds,DET,WR101,6,3 out of 5 stars,-
+302,13,Jimmy Garoppolo,SF,QB33,9,3 out of 5 stars,-76
+303,13,Darius Slayton,NYG,WR102,9,4 out of 5 stars,-
+304,13,Kenny Pickett,PIT,QB34,9,3 out of 5 stars,-71
+305,13,Quez Watkins,PHI,WR103,7,4 out of 5 stars,13
+306,13,Kyle Rudolph,TB,TE35,11,3 out of 5 stars,-34
+307,13,Emmanuel Sanders,FA,WR104,-,-,30
+308,13,Pierre Strong Jr.,NE,RB81,10,4 out of 5 stars,-2
+309,13,Isiah Pacheco,KC,RB82,8,3 out of 5 stars,-53
+310,13,Dyami Brown,WAS,WR105,14,4 out of 5 stars,72
+311,13,Kyren Williams,LAR,RB83,7,2 out of 5 stars,48
+312,13,Ty Johnson,NYJ,RB84,10,4 out of 5 stars,53
+313,13,Chris Evans,CIN,RB85,10,3 out of 5 stars,-83
+314,13,Justin Jackson,DET,RB86,6,4 out of 5 stars,54
+315,13,Jalen Reagor,PHI,WR106,7,4 out of 5 stars,-
+316,13,Velus Jones Jr.,CHI,WR107,14,3 out of 5 stars,-33
+317,13,Joshua Kelley,LAC,RB87,8,2 out of 5 stars,-
+318,13,Quintez Cephus,DET,WR108,6,3 out of 5 stars,23
+319,13,Geno Smith,SEA,QB35,11,3 out of 5 stars,-16
+320,13,Greg Dulcich,DEN,TE36,9,3 out of 5 stars,-53
+321,13,Chase McLaughlin,FA,K27,-,-,-
+322,13,Devin Duvernay,BAL,WR109,10,3 out of 5 stars,-27
+323,13,Jacoby Brissett,CLE,QB36,9,4 out of 5 stars,-27
+324,13,Darrynton Evans,CHI,RB88,14,5 out of 5 stars,-
+325,13,Duke Johnson Jr.,BUF,RB89,7,4 out of 5 stars,-10
+326,13,Josh Lambo,FA,K28,-,-,-
+327,13,Cole Beasley,FA,WR110,-,-,2
+328,13,Nick Westbrook-Ikhine,TEN,WR111,6,3 out of 5 stars,-15
+329,13,Harrison Bryant,CLE,TE37,9,4 out of 5 stars,-
+330,13,Ricky Seals-Jones,NYG,TE38,9,4 out of 5 stars,-
+331,13,Tyler Conklin,NYJ,TE39,10,3 out of 5 stars,-47
+332,13,Sam Darnold,CAR,QB37,13,3 out of 5 stars,-7
+333,13,Salvon Ahmed,MIA,RB90,11,4 out of 5 stars,-
+334,13,Tyler Badie,BAL,RB91,10,4 out of 5 stars,-76
+335,13,Jared Cook,FA,TE40,-,-,18
+336,13,Daniel Bellinger,NYG,TE41,9,4 out of 5 stars,-48
+337,13,Giovani Bernard,TB,RB92,11,2 out of 5 stars,25
+338,13,Tevin Coleman,NYJ,RB93,10,4 out of 5 stars,35
+339,13,Tommy Tremble,CAR,TE42,13,3 out of 5 stars,25
+340,13,Tyquan Thornton,NE,WR112,10,4 out of 5 stars,-32
+341,13,David Johnson,FA,RB94,-,-,-18
+342,13,Jaret Patterson,WAS,RB95,14,4 out of 5 stars,2
+343,13,Donald Parham Jr.,LAC,TE43,8,4 out of 5 stars,-34
+344,13,Anthony Firkser,ATL,TE44,14,2 out of 5 stars,-
+345,13,Desmond Ridder,ATL,QB38,14,3 out of 5 stars,-60
+346,13,Snoop Conner,JAC,RB96,11,3 out of 5 stars,-25
+347,13,Jerome Ford,CLE,RB97,9,3 out of 5 stars,-
+348,14,Malcolm Brown,FA,RB98,-,-,-
+349,14,Dontrell Hilliard,TEN,RB99,6,4 out of 5 stars,-67
+350,14,James Proche II,BAL,WR113,10,3 out of 5 stars,25
+351,14,Jalen Guyton,LAC,WR114,8,3 out of 5 stars,-32
+352,14,T.Y. Hilton,FA,WR115,-,-,-25
+353,14,Atlanta Falcons,ATL,DST29,14,5 out of 5 stars,-61
+354,14,James Washington,DAL,WR116,9,3 out of 5 stars,-32
+355,14,Demarcus Robinson,LV,WR117,6,2 out of 5 stars,-
+356,14,Latavius Murray,FA,RB100,-,-,-9
+357,14,Jelani Woods,IND,TE45,14,2 out of 5 stars,-46
+358,14,Las Vegas Raiders,LV,DST30,6,3 out of 5 stars,-83
+359,14,John Metchie III,HOU,WR118,6,3 out of 5 stars,-49
+360,14,Foster Moreau,LV,TE46,6,2 out of 5 stars,-
+361,14,Devontae Booker,FA,RB101,-,-,-70
+362,14,Cade Otton,TB,TE47,11,3 out of 5 stars,-38
+363,14,Detroit Lions,DET,DST31,6,2 out of 5 stars,-58
+364,14,Devonta Freeman,FA,RB102,-,-,-18
+365,14,Keaontay Ingram,ARI,RB103,13,2 out of 5 stars,-131
+366,14,Olamide Zaccheaus,ATL,WR119,14,4 out of 5 stars,-36
+367,14,Amari Rodgers,GB,WR120,14,3 out of 5 stars,-98
+368,14,Cade York,CLE,K29,9,3 out of 5 stars,-71
+369,14,Kyle Philips,TEN,WR121,6,3 out of 5 stars,3
+370,14,Khalil Shakir,BUF,WR122,7,4 out of 5 stars,10
+371,14,Calvin Austin III,PIT,WR123,9,4 out of 5 stars,-39
+372,14,John Bates,WAS,TE48,14,4 out of 5 stars,-
+373,14,Anthony Schwartz,CLE,WR124,9,4 out of 5 stars,-
+374,14,Wayne Gallman Jr.,FA,RB104,-,-,-7
+375,14,Jonathan Garibay,FA,K30,-,-,-94
+376,14,Benny Snell Jr.,PIT,RB105,9,3 out of 5 stars,-26
+377,14,Kylen Granson,IND,TE49,14,2 out of 5 stars,-
+378,14,Teddy Bridgewater,MIA,QB39,11,2 out of 5 stars,-
+379,14,Taysom Hill,NO,QB40,14,3 out of 5 stars,-171
+380,14,Dee Eskridge,SEA,WR125,11,4 out of 5 stars,4
+381,14,Rashard Higgins,CAR,WR126,13,3 out of 5 stars,-
+382,14,Houston Texans,HOU,DST32,6,4 out of 5 stars,-
+383,14,Tristan Vizcaino,NE,K31,10,5 out of 5 stars,-
+384,14,Kene Nwangwu,MIN,RB106,7,4 out of 5 stars,-6
+385,14,Joey Slye,WAS,K32,14,4 out of 5 stars,-125
+386,14,Austin Seibert,DET,K33,6,3 out of 5 stars,-
+387,14,Josiah Deguara,GB,TE50,14,1 out of 5 stars,-
+388,14,Chris Conley,HOU,WR127,6,3 out of 5 stars,-
+389,14,Laquon Treadwell,JAC,WR128,11,4 out of 5 stars,-
+390,14,Malik Willis,TEN,QB41,6,4 out of 5 stars,-104
+391,14,Antonio Brown,FA,WR129,-,-,-63
+392,14,Jauan Jennings,SF,WR130,9,3 out of 5 stars,-31
+393,14,Danny Gray,SF,WR131,9,3 out of 5 stars,-
+394,14,Equanimeous St. Brown,CHI,WR132,14,3 out of 5 stars,-
+395,14,Tyler Johnson,TB,WR133,11,4 out of 5 stars,-
+396,14,Deonte Harty,NO,WR134,14,4 out of 5 stars,-19
+397,14,Pharaoh Brown,HOU,TE51,6,3 out of 5 stars,-10
+398,14,DeeJay Dallas,SEA,RB107,11,2 out of 5 stars,-27
+399,14,Abram Smith,NO,RB108,14,3 out of 5 stars,-73
+400,14,Zane Gonzalez,CAR,K34,13,4 out of 5 stars,-
+401,14,Zach Pascal,PHI,WR135,7,4 out of 5 stars,-53
+402,14,Derrick Gore,KC,RB109,8,3 out of 5 stars,-
+403,14,Blake Jarwin,FA,TE52,-,-,-
+404,14,Eric Ebron,FA,TE53,-,-,-
+405,14,Noah Brown,DAL,WR136,9,3 out of 5 stars,-
+406,14,Craig Reynolds,DET,RB110,6,4 out of 5 stars,-
+407,15,Ryan Santoso,JAC,K35,11,4 out of 5 stars,-
+408,15,N'Keal Harry,CHI,WR137,14,3 out of 5 stars,-74
+409,15,Tutu Atwell,LAR,WR138,7,2 out of 5 stars,-
+410,15,Ashton Dulin,IND,WR139,14,4 out of 5 stars,-
+411,15,Tony Jones Jr.,NO,RB111,14,3 out of 5 stars,-
+412,15,Tarik Cohen,FA,RB112,-,-,-
+413,15,Matt Corral,CAR,QB42,13,3 out of 5 stars,-27
+414,15,Brandon Bolden,LV,RB113,6,2 out of 5 stars,-45
+415,15,Riley Patterson,DET,K36,6,3 out of 5 stars,-
+416,15,Keelan Cole Sr.,LV,WR140,6,2 out of 5 stars,-
+417,15,Tylan Wallace,BAL,WR141,10,3 out of 5 stars,-
+418,15,Isaiah Likely,BAL,TE54,10,2 out of 5 stars,-66
+419,15,Brett Maher,DAL,K37,9,5 out of 5 stars,-
+420,15,Jamal Agnew,JAC,WR142,11,4 out of 5 stars,-
+421,15,Auden Tate,ATL,WR143,14,4 out of 5 stars,-
+422,15,Chris Herndon IV,NO,TE55,14,4 out of 5 stars,-
+423,15,Tyler Huntley,BAL,QB43,10,2 out of 5 stars,-81
+424,15,Carlos Hyde,FA,RB114,-,-,-
+425,15,Mason Rudolph,PIT,QB44,9,3 out of 5 stars,-
+426,15,Antoine Wesley,ARI,WR144,13,2 out of 5 stars,-
+427,15,Tyrell Williams,FA,WR145,-,-,-
+428,15,Jordan Akins,NYG,TE56,9,4 out of 5 stars,-
+429,15,Anthony McFarland Jr.,PIT,RB115,9,3 out of 5 stars,-
+430,15,Ameer Abdullah,LV,RB116,6,2 out of 5 stars,-
+431,15,Jeremy Ruckert,NYJ,TE57,10,3 out of 5 stars,-
+432,15,Freddie Swain,SEA,WR146,11,4 out of 5 stars,-
+433,15,Tyrod Taylor,NYG,QB45,9,5 out of 5 stars,-
+434,15,Kevin Harris,NE,RB117,10,4 out of 5 stars,-
+435,15,Quinn Nordin,FA,K38,-,-,-
+436,15,Jimmy Graham,FA,TE58,-,-,-
+437,15,Will Dissly,SEA,TE59,11,2 out of 5 stars,-
+438,15,Geoff Swaim,TEN,TE60,6,5 out of 5 stars,-
+439,15,Trestan Ebner,CHI,RB118,14,5 out of 5 stars,-
+440,15,Jordan Howard,FA,RB119,-,-,-89
+441,15,Ty Montgomery,NE,RB120,10,4 out of 5 stars,-
+442,15,Mike Boone,DEN,RB121,9,3 out of 5 stars,-
+443,15,Travis Homer,SEA,RB122,11,2 out of 5 stars,-
+444,15,Juwan Johnson,NO,TE61,14,4 out of 5 stars,-
+445,15,Kalif Raymond,DET,WR147,6,3 out of 5 stars,-79
+446,15,Chris Moore,HOU,WR148,6,3 out of 5 stars,-
+447,15,Jashaun Corbin,NYG,RB123,9,3 out of 5 stars,-
+448,15,Jeremy McNichols,PIT,RB124,9,3 out of 5 stars,-
+449,15,DeSean Jackson,FA,WR149,-,-,-
+450,15,Justice Hill,BAL,RB125,10,4 out of 5 stars,-74
+451,15,Taylor Heinicke,WAS,QB46,14,4 out of 5 stars,-
+452,15,Ben Skowronek,LAR,WR150,7,2 out of 5 stars,-
+453,15,Le'Veon Bell,FA,RB126,-,-,-
+454,15,Mack Hollins,LV,WR151,6,2 out of 5 stars,-
+455,15,Jermar Jefferson,DET,RB127,6,4 out of 5 stars,-
+456,15,Kennedy Brooks,PHI,RB128,7,3 out of 5 stars,-
+457,15,Gardner Minshew II,PHI,QB47,7,4 out of 5 stars,-103
+458,15,Ihmir Smith-Marsette,MIN,WR152,7,2 out of 5 stars,-
+459,15,Denzel Mims,NYJ,WR153,10,1 out of 5 stars,-
+460,15,Demetric Felton Jr.,CLE,RB129,9,3 out of 5 stars,-
+461,15,Carlos Martinez,DAL,K39,9,5 out of 5 stars,-
+462,15,Justyn Ross,KC,WR154,8,2 out of 5 stars,-142
+463,15,Justin Watson,KC,WR155,8,2 out of 5 stars,-
+464,15,Andy Dalton,NO,QB48,14,3 out of 5 stars,-
+465,15,Kyle Juszczyk,SF,RB130,9,2 out of 5 stars,-
+466,15,Jalen Wydermyer,BUF,TE62,7,3 out of 5 stars,-
+467,15,Ian Thomas,CAR,TE63,13,3 out of 5 stars,-
+468,15,Lirim Hajrullahu,DAL,K40,9,5 out of 5 stars,-
+469,15,Gary Brightwell,NYG,RB131,9,3 out of 5 stars,-
+470,15,Ty Chandler,MIN,RB132,7,4 out of 5 stars,-
+471,15,Larry Rountree III,LAC,RB133,8,2 out of 5 stars,-
+472,15,Chigoziem Okonkwo,TEN,TE64,6,5 out of 5 stars,-
+473,15,Anthony Miller,PIT,WR156,9,4 out of 5 stars,-
+474,15,Jake Ferguson,DAL,TE65,9,3 out of 5 stars,-
+475,15,Dare Ogunbowale,HOU,RB134,6,3 out of 5 stars,-
+476,15,Ryquell Armstead,JAC,RB135,11,3 out of 5 stars,-
+477,15,Patrick Ricard,BAL,RB136,10,4 out of 5 stars,-
+478,15,JaMycal Hasty,SF,RB137,9,2 out of 5 stars,-
+479,15,Nick Boyle,BAL,TE66,10,2 out of 5 stars,-
+480,16,J.J. Taylor,NE,RB138,10,4 out of 5 stars,-
+481,16,Dez Fitzpatrick,TEN,WR157,6,3 out of 5 stars,-
+482,16,Jordan Mason,SF,RB139,9,2 out of 5 stars,-
+483,16,Montrell Washington,DEN,WR158,9,4 out of 5 stars,-
+484,16,Adam Shaheen,MIA,TE67,11,3 out of 5 stars,-
+485,16,Maxx Williams,ARI,TE68,13,3 out of 5 stars,-
+486,16,Miles Boykin,PIT,WR159,9,4 out of 5 stars,-
+487,16,Tyler Kroft,SF,TE69,9,4 out of 5 stars,-
+488,16,Ryan Griffin,CHI,TE70,14,5 out of 5 stars,-
+489,16,C.J. Ham,MIN,RB140,7,4 out of 5 stars,-
+490,16,Jaylen Warren,PIT,RB141,9,3 out of 5 stars,-
+491,16,Breshad Perriman,TB,WR160,11,4 out of 5 stars,-117
+492,16,Cam Sims,WAS,WR161,14,4 out of 5 stars,-161
+493,16,Eddy Pineiro,NYJ,K41,10,0 out of 5 stars,-
+494,16,Sam Howell,WAS,QB49,14,4 out of 5 stars,-
+495,16,Alec Ingold,MIA,RB142,11,4 out of 5 stars,-
+496,16,Mataeo Durant,PIT,RB143,9,3 out of 5 stars,-
+497,16,Jordan Love,GB,QB50,14,2 out of 5 stars,-112
+498,16,Durham Smythe,MIA,TE71,11,3 out of 5 stars,-
+499,16,DeAndre Carter,LAC,WR162,8,3 out of 5 stars,-
+500,16,Phillip Dorsett II,HOU,WR163,6,3 out of 5 stars,-
+501,16,Blake Bell,KC,TE72,8,3 out of 5 stars,-
+502,16,Cyril Grayson Jr.,TB,WR164,11,4 out of 5 stars,-
+503,16,Rico Dowdle,DAL,RB144,9,4 out of 5 stars,-
+504,16,James O'Shaughnessy,CHI,TE73,14,5 out of 5 stars,-
+505,16,Brandon Zylstra,CAR,WR165,13,3 out of 5 stars,-
+506,16,Kylin Hill,GB,RB145,14,3 out of 5 stars,-
+507,16,Ross Dwelley,SF,TE74,9,4 out of 5 stars,-
+508,16,Charlie Kolar,BAL,TE75,10,2 out of 5 stars,-
+509,16,Josh Gordon,KC,WR166,8,2 out of 5 stars,-
+510,16,Pooka Williams Jr.,CIN,RB146,10,3 out of 5 stars,-
+511,16,Marcedes Lewis,GB,TE76,14,1 out of 5 stars,-
+512,16,Damiere Byrd,ATL,WR167,14,4 out of 5 stars,-
+513,16,Marquise Goodwin,SEA,WR168,11,4 out of 5 stars,-173
+514,16,Hunter Long,MIA,TE77,11,3 out of 5 stars,-
+515,16,Drew Sample,CIN,TE78,10,2 out of 5 stars,-
+516,16,Zach Gentry,PIT,TE79,9,4 out of 5 stars,-
+517,16,Andrew Jacas,SF,K42,9,3 out of 5 stars,-
+518,16,Nick Vannett,NO,TE80,14,4 out of 5 stars,-
+519,16,James Mitchell,DET,TE81,6,4 out of 5 stars,-
+520,16,Qadree Ollison,ATL,RB147,14,1 out of 5 stars,-
+521,16,Keith Smith,ATL,RB148,14,1 out of 5 stars,-
+522,16,Godwin Igwebuike,DET,RB149,6,4 out of 5 stars,-
+523,16,Trent Sherfield,MIA,WR169,11,2 out of 5 stars,-
+524,16,Sincere McCormick,LV,RB150,6,2 out of 5 stars,-
+525,16,Tre' McKitty,LAC,TE82,8,4 out of 5 stars,-
+526,16,Jerrion Ealy,KC,RB151,8,3 out of 5 stars,-
+527,16,Jalen Nailor,MIN,WR170,7,2 out of 5 stars,-
+528,16,Johnny Mundt,MIN,TE83,7,3 out of 5 stars,-
+529,16,Trayveon Williams,CIN,RB152,10,3 out of 5 stars,-
+530,16,Zonovan Knight,NYJ,RB153,10,4 out of 5 stars,-
+531,16,Ray-Ray McCloud,SF,WR171,9,3 out of 5 stars,-
+532,16,Patrick Taylor Jr.,GB,RB154,14,3 out of 5 stars,-
+533,16,Jakob Johnson,LV,RB155,6,2 out of 5 stars,-
+534,16,Preston Williams,MIA,WR172,11,2 out of 5 stars,-
+535,16,Cole Turner,WAS,TE84,14,4 out of 5 stars,-
+536,16,Lil'Jordan Humphrey,NE,WR173,10,4 out of 5 stars,-
+537,16,Jaelon Darden,TB,WR174,11,4 out of 5 stars,-204
+538,16,Noah Gray,KC,TE85,8,3 out of 5 stars,-
